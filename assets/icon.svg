@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<path style="fill:#D5D6E0;" d="M100,94c0,3.313-2.687,6-6,6H6c-3.313,0-6-2.687-6-6V6c0-3.313,2.687-6,6-6h88c3.313,0,6,2.687,6,6
+	V94z"/>
+<path style="fill:#135484;" d="M13.81,55.463L10,51.653l32.381-32.381c0,0,7.619-9.524,15.238,0
+	c5.049,6.311,19.048,26.667,19.048,26.667s1.905,3.81,5.714,0c1.904-1.905,1.904-1.905,1.904-1.905L90,49.749L56.715,81.13
+	c0,0-7.619,7.619-13.334,0c-4.85-6.466-20.047-27.572-20.047-27.572s-3.811-3.81-7.619,0C13.81,55.463,13.81,55.463,13.81,55.463z"
+	/>
+<rect x="37" y="52" style="fill:#FFFFFF;" width="26" height="3"/>
+<rect x="37" y="46" style="fill:#FFFFFF;" width="26" height="3"/>
+<rect x="40" y="40" style="fill:#FFFFFF;" width="20" height="3"/>
+<rect x="40" y="58" style="fill:#FFFFFF;" width="20" height="3"/>
+</svg>
