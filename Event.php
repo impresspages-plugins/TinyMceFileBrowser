@@ -16,5 +16,6 @@ class Event
 
         //ipAddJs('assets/responsivefilemanager/plugin.min.js');
         ipAddJs('assets/TinyMceConfigUpdate.js');
+        ipAddCss('assets/cssFix.css');
     }
 }

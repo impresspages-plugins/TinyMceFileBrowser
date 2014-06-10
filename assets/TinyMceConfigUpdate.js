@@ -14,6 +14,9 @@ var ipTinyMceConfig = function () {
 
     originalConfig.filemanager_title = "Responsive Filemanager";
     originalConfig.valid_elements = originalConfig.valid_elements + ',img[src|alt|width|height]';
+
+
+    originalConfig.image_advtab = true;
     return originalConfig;
 
 }
